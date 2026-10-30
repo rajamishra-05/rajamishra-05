@@ -21,7 +21,7 @@ Aspiring Software Developer | Problem Solver | Lifelong Learner
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools 🥇
 
 <!-- Add only the technologies you actually use -->
 
